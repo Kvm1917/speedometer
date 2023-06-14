@@ -1,0 +1,58 @@
+/* Write your CSS here */
+
+.background-color {
+  background-color: #07080c;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-style: italic;
+  margin: 0px 0px;
+}
+
+.image1 {
+  height: 50vh;
+  width: 50vw;
+}
+
+.heading-1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.paragraph {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+.button {
+  color: #ffffff;
+  border-radius: 5px;
+  font-family: 'Roboto';
+}
+
+.accelerate-button {
+  background-color: #0b69ff;
+  border: 0px solid;
+  font-size: 8px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.brake-button {
+  background-color: #07080c;
+  font-size: 7px;
+  border-color: #cbd5e1;
+  border-width: 2px;
+  padding: 4px 7px;
+}
